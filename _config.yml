@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Collab Learn"
+title: "Collab Learn"
+description: "Let's Learn together."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -13,6 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  vk:
+    name: vk
+    display_name: VK
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/vk.jpg'
+    email: kolliparavamsikrishna@yahoo.in
+    web: https://vamsikollipara.github.io/
+    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in"
   sal:
     name: Sal
     display_name: S
